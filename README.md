@@ -17,7 +17,7 @@
     AppStream 2.0 installer script
 .DESCRIPTION
 
-    Perform standard or custom Windows tasks on an AppStream 2.0 Image Builder for Fleet automation. Install applications and choco packages, copy files, create environment variables, edit registry, services and scheduled tasks.
+    Test Perform standard or custom Windows tasks on an AppStream 2.0 Image Builder for Fleet automation. Install applications and choco packages, copy files, create environment variables, edit registry, services and scheduled tasks.
 .PARAMETER Mode
 
     The operating mode of this script. There are 2 modes for troubleshooting applications locally during preliminary test. 
